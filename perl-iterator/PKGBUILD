@@ -2,10 +2,10 @@
 
 pkgname=perl-iterator
 pkgver=0.03
-pkgrel=1
+pkgrel=2
 pkgdesc="Iterator - A general-purpose iterator class."
 arch=('i686' 'x86_64')
-url="http://search.cpan.org/~roode/Iterator-0.03/Iterator.pm"
+url="http://search.cpan.org/~roode/Iterator/"
 license=('PerlArtistic')
 depends=('perl>=5.004' 'perl-exception-class>=1.21')
 options=(!emptydirs)
